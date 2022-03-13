@@ -1,0 +1,35 @@
+newmtl lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.92 0.92 0.92
+Tf 0.44 0.44 0.44
+map_Kd mizu.jpg
+Ni 1.00
+newmtl pasted__lambert2SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.92 0.92 0.92
+Tf 0.44 0.44 0.44
+map_Kd mizu.jpg
+Ni 1.00
+newmtl pasted__pasted__lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.92 0.92 0.92
+Tf 0.44 0.44 0.44
+map_Kd mizu.jpg
+Ni 1.00
+newmtl pasted__pasted__lambert2SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.92 0.92 0.92
+Tf 0.44 0.44 0.44
+map_Kd mizu.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert2SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.92 0.92 0.92
+Tf 0.44 0.44 0.44
+map_Kd mizu.jpg
+Ni 1.00

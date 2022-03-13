@@ -1,0 +1,751 @@
+newmtl initialShadingGroup
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sky_06.png
+Ni 1.00
+newmtl lambert2SG
+illum 4
+Kd 0.01 0.12 0.03
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl lambert3SG
+illum 4
+Kd 0.17 0.06 0.02
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl lambert4SG
+illum 4
+Kd 0.06 0.14 0.08
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl lowpolytree:Bark
+illum 4
+Kd 0.18 0.05 0.02
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.02 0.01 0.00
+Ns 96.08
+newmtl lowpolytree:Leaves
+illum 4
+Kd 0.03 0.11 0.02
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.09 0.36 0.07
+Ns 96.08
+newmtl lowpolytree1:Bark
+illum 4
+Kd 0.18 0.05 0.02
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.02 0.01 0.00
+Ns 96.08
+newmtl lowpolytree1:Leaves
+illum 4
+Kd 0.03 0.11 0.02
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.09 0.36 0.07
+Ns 96.08
+newmtl lowpolytree2:Bark
+illum 4
+Kd 0.18 0.05 0.02
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.02 0.01 0.00
+Ns 96.08
+newmtl lowpolytree2:Leaves
+illum 4
+Kd 0.03 0.11 0.02
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.09 0.36 0.07
+Ns 96.08
+newmtl lowpolytree3:Bark
+illum 4
+Kd 0.18 0.05 0.02
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.02 0.01 0.00
+Ns 96.08
+newmtl lowpolytree3:Leaves
+illum 4
+Kd 0.03 0.11 0.02
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.09 0.36 0.07
+Ns 96.08
+newmtl lowpolytree4:Bark
+illum 4
+Kd 0.18 0.05 0.02
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.02 0.01 0.00
+Ns 96.08
+newmtl lowpolytree4:Leaves
+illum 4
+Kd 0.03 0.11 0.02
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.09 0.36 0.07
+Ns 96.08
+newmtl lowpolytree5:Bark
+illum 4
+Kd 0.18 0.05 0.02
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.02 0.01 0.00
+Ns 96.08
+newmtl lowpolytree5:Leaves
+illum 4
+Kd 0.03 0.11 0.02
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.09 0.36 0.07
+Ns 96.08
+newmtl lowpolytree6:Bark
+illum 4
+Kd 0.18 0.05 0.02
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.02 0.01 0.00
+Ns 96.08
+newmtl lowpolytree6:Leaves
+illum 4
+Kd 0.03 0.11 0.02
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.09 0.36 0.07
+Ns 96.08
+newmtl lowpolytree7:Bark
+illum 4
+Kd 0.18 0.05 0.02
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.02 0.01 0.00
+Ns 96.08
+newmtl lowpolytree7:Leaves
+illum 4
+Kd 0.03 0.11 0.02
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.09 0.36 0.07
+Ns 96.08
+newmtl lowpolytree8:Bark
+illum 4
+Kd 0.18 0.05 0.02
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.02 0.01 0.00
+Ns 96.08
+newmtl lowpolytree8:Leaves
+illum 4
+Kd 0.03 0.11 0.02
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.09 0.36 0.07
+Ns 96.08
+newmtl lowpolytree9:Bark
+illum 4
+Kd 0.18 0.05 0.02
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.02 0.01 0.00
+Ns 96.08
+newmtl lowpolytree9:Leaves
+illum 4
+Kd 0.03 0.11 0.02
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.09 0.36 0.07
+Ns 96.08
+newmtl lowpolytree10:Bark
+illum 4
+Kd 0.18 0.05 0.02
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.02 0.01 0.00
+Ns 96.08
+newmtl lowpolytree10:Leaves
+illum 4
+Kd 0.03 0.11 0.02
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.09 0.36 0.07
+Ns 96.08
+newmtl lowpolytree11:Bark
+illum 4
+Kd 0.18 0.05 0.02
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.02 0.01 0.00
+Ns 96.08
+newmtl lowpolytree11:Leaves
+illum 4
+Kd 0.03 0.11 0.02
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.09 0.36 0.07
+Ns 96.08
+newmtl lowpolytree12:Bark
+illum 4
+Kd 0.18 0.05 0.02
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.02 0.01 0.00
+Ns 96.08
+newmtl lowpolytree12:Leaves
+illum 4
+Kd 0.03 0.11 0.02
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.09 0.36 0.07
+Ns 96.08
+newmtl lowpolytree13:Bark
+illum 4
+Kd 0.18 0.05 0.02
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.02 0.01 0.00
+Ns 96.08
+newmtl lowpolytree13:Leaves
+illum 4
+Kd 0.03 0.11 0.02
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.09 0.36 0.07
+Ns 96.08
+newmtl lowpolytree14:Bark
+illum 4
+Kd 0.18 0.05 0.02
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.02 0.01 0.00
+Ns 96.08
+newmtl lowpolytree14:Leaves
+illum 4
+Kd 0.03 0.11 0.02
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.09 0.36 0.07
+Ns 96.08
+newmtl lowpolytree15:Bark
+illum 4
+Kd 0.18 0.05 0.02
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.02 0.01 0.00
+Ns 96.08
+newmtl lowpolytree15:Leaves
+illum 4
+Kd 0.03 0.11 0.02
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.09 0.36 0.07
+Ns 96.08
+newmtl lowpolytree16:Bark
+illum 4
+Kd 0.18 0.05 0.02
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.02 0.01 0.00
+Ns 96.08
+newmtl lowpolytree16:Leaves
+illum 4
+Kd 0.03 0.11 0.02
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.09 0.36 0.07
+Ns 96.08
+newmtl lowpolytree17:Bark
+illum 4
+Kd 0.18 0.05 0.02
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.02 0.01 0.00
+Ns 96.08
+newmtl lowpolytree17:Leaves
+illum 4
+Kd 0.03 0.11 0.02
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.09 0.36 0.07
+Ns 96.08
+newmtl lowpolytree18:Bark
+illum 4
+Kd 0.18 0.05 0.02
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.02 0.01 0.00
+Ns 96.08
+newmtl lowpolytree18:Leaves
+illum 4
+Kd 0.03 0.11 0.02
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.09 0.36 0.07
+Ns 96.08
+newmtl lowpolytree19:Bark
+illum 4
+Kd 0.18 0.05 0.02
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.02 0.01 0.00
+Ns 96.08
+newmtl lowpolytree19:Leaves
+illum 4
+Kd 0.03 0.11 0.02
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.09 0.36 0.07
+Ns 96.08
+newmtl lowpolytree20:Bark
+illum 4
+Kd 0.18 0.05 0.02
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.02 0.01 0.00
+Ns 96.08
+newmtl lowpolytree20:Leaves
+illum 4
+Kd 0.03 0.11 0.02
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.09 0.36 0.07
+Ns 96.08
+newmtl lowpolytree21:Bark
+illum 4
+Kd 0.18 0.05 0.02
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.02 0.01 0.00
+Ns 96.08
+newmtl lowpolytree21:Leaves
+illum 4
+Kd 0.03 0.11 0.02
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.09 0.36 0.07
+Ns 96.08
+newmtl lowpolytree22:Bark
+illum 4
+Kd 0.18 0.05 0.02
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.02 0.01 0.00
+Ns 96.08
+newmtl lowpolytree22:Leaves
+illum 4
+Kd 0.03 0.11 0.02
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.09 0.36 0.07
+Ns 96.08
+newmtl lowpolytree23:Bark
+illum 4
+Kd 0.18 0.05 0.02
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.02 0.01 0.00
+Ns 96.08
+newmtl lowpolytree23:Leaves
+illum 4
+Kd 0.03 0.11 0.02
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.09 0.36 0.07
+Ns 96.08
+newmtl lowpolytree24:Bark
+illum 4
+Kd 0.18 0.05 0.02
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.02 0.01 0.00
+Ns 96.08
+newmtl lowpolytree24:Leaves
+illum 4
+Kd 0.03 0.11 0.02
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.09 0.36 0.07
+Ns 96.08
+newmtl lowpolytree25:Bark
+illum 4
+Kd 0.18 0.05 0.02
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.02 0.01 0.00
+Ns 96.08
+newmtl lowpolytree25:Leaves
+illum 4
+Kd 0.03 0.11 0.02
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.09 0.36 0.07
+Ns 96.08
+newmtl lowpolytree26:Bark
+illum 4
+Kd 0.18 0.05 0.02
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.02 0.01 0.00
+Ns 96.08
+newmtl lowpolytree26:Leaves
+illum 4
+Kd 0.03 0.11 0.02
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.09 0.36 0.07
+Ns 96.08
+newmtl lowpolytree27:Bark
+illum 4
+Kd 0.18 0.05 0.02
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.02 0.01 0.00
+Ns 96.08
+newmtl lowpolytree27:Leaves
+illum 4
+Kd 0.03 0.11 0.02
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.09 0.36 0.07
+Ns 96.08
+newmtl lowpolytree28:Bark
+illum 4
+Kd 0.18 0.05 0.02
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.02 0.01 0.00
+Ns 96.08
+newmtl lowpolytree28:Leaves
+illum 4
+Kd 0.03 0.11 0.02
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.09 0.36 0.07
+Ns 96.08
+newmtl lowpolytree29:Bark
+illum 4
+Kd 0.18 0.05 0.02
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.02 0.01 0.00
+Ns 96.08
+newmtl lowpolytree29:Leaves
+illum 4
+Kd 0.03 0.11 0.02
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.09 0.36 0.07
+Ns 96.08
+newmtl lowpolytree30:Bark
+illum 4
+Kd 0.18 0.05 0.02
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.02 0.01 0.00
+Ns 96.08
+newmtl lowpolytree30:Leaves
+illum 4
+Kd 0.03 0.11 0.02
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.09 0.36 0.07
+Ns 96.08
+newmtl lowpolytree31:Bark
+illum 4
+Kd 0.18 0.05 0.02
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.02 0.01 0.00
+Ns 96.08
+newmtl lowpolytree31:Leaves
+illum 4
+Kd 0.03 0.11 0.02
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.09 0.36 0.07
+Ns 96.08
+newmtl lowpolytree32:Bark
+illum 4
+Kd 0.18 0.05 0.02
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.02 0.01 0.00
+Ns 96.08
+newmtl lowpolytree32:Leaves
+illum 4
+Kd 0.03 0.11 0.02
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.09 0.36 0.07
+Ns 96.08
+newmtl lowpolytree33:Bark
+illum 4
+Kd 0.18 0.05 0.02
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.02 0.01 0.00
+Ns 96.08
+newmtl lowpolytree33:Leaves
+illum 4
+Kd 0.03 0.11 0.02
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.09 0.36 0.07
+Ns 96.08
+newmtl lowpolytree34:Bark
+illum 4
+Kd 0.18 0.05 0.02
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.02 0.01 0.00
+Ns 96.08
+newmtl lowpolytree34:Leaves
+illum 4
+Kd 0.03 0.11 0.02
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.09 0.36 0.07
+Ns 96.08
+newmtl lowpolytree35:Bark
+illum 4
+Kd 0.18 0.05 0.02
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.02 0.01 0.00
+Ns 96.08
+newmtl lowpolytree35:Leaves
+illum 4
+Kd 0.03 0.11 0.02
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.09 0.36 0.07
+Ns 96.08
+newmtl lowpolytree39:Bark
+illum 4
+Kd 0.18 0.05 0.02
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.02 0.01 0.00
+Ns 96.08
+newmtl lowpolytree39:Leaves
+illum 4
+Kd 0.03 0.11 0.02
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.09 0.36 0.07
+Ns 96.08
+newmtl lowpolytree40:Bark
+illum 4
+Kd 0.18 0.05 0.02
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.02 0.01 0.00
+Ns 96.08
+newmtl lowpolytree40:Leaves
+illum 4
+Kd 0.03 0.11 0.02
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.09 0.36 0.07
+Ns 96.08
+newmtl lowpolytree42:Bark
+illum 4
+Kd 0.18 0.05 0.02
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.02 0.01 0.00
+Ns 96.08
+newmtl lowpolytree42:Leaves
+illum 4
+Kd 0.03 0.11 0.02
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.09 0.36 0.07
+Ns 96.08
+newmtl lowpolytree43:Bark
+illum 4
+Kd 0.18 0.05 0.02
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.02 0.01 0.00
+Ns 96.08
+newmtl lowpolytree43:Leaves
+illum 4
+Kd 0.03 0.11 0.02
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.09 0.36 0.07
+Ns 96.08
+newmtl lowpolytree44:Bark
+illum 4
+Kd 0.18 0.05 0.02
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.02 0.01 0.00
+Ns 96.08
+newmtl lowpolytree44:Leaves
+illum 4
+Kd 0.03 0.11 0.02
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.09 0.36 0.07
+Ns 96.08
+newmtl pasted__lambert2SG5
+illum 4
+Kd 0.01 0.12 0.03
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__lambert2SG6
+illum 4
+Kd 0.01 0.12 0.03
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__lambert2SG7
+illum 4
+Kd 0.01 0.12 0.03
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__lambert3SG5
+illum 4
+Kd 0.17 0.06 0.02
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__lambert3SG6
+illum 4
+Kd 0.17 0.06 0.02
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__lambert3SG7
+illum 4
+Kd 0.17 0.06 0.02
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__lambert4SG5
+illum 4
+Kd 0.06 0.14 0.08
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__lambert4SG6
+illum 4
+Kd 0.06 0.14 0.08
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__lambert4SG7
+illum 4
+Kd 0.06 0.14 0.08
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl shrub8LeafShaderSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 8.00
+newmtl shrub8ShaderSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 8.00
